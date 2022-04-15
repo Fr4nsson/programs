@@ -3,6 +3,9 @@ A list of useful programs
 <br>
 <br>
 <br>
+### Everything (Portable)
+https://www.voidtools.com/
+
 ### grepWin (Portable)
 https://github.com/stefankueng/grepWin/releases
 
